@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Start {
-
 	static List<String> nombres = new ArrayList<>(); //Creación de la lista.
 	static Scanner sc = new Scanner(System.in);
+	
 	public static void main(String[] args) {
 		
 		String respuesta;
